@@ -1,0 +1,22 @@
+{
+  "name": "yaoleshchuk",
+  "version": "1.0.0",
+  "description": "<h1> Hey! Nice to see you</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaoleshchuk/yaoleshchuk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaoleshchuk/yaoleshchuk/issues"
+  },
+  "homepage": "https://github.com/yaoleshchuk/yaoleshchuk#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
