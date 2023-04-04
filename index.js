@@ -2,7 +2,7 @@ const Mustache = require('mustache');
 const fs = require('fs');
 const axios = require('axios');
 const MUSTACHE_MAIN_DIR = './main.mustache';
-const OPENWEATHER_API_KEY = 'dc966d561328929c144b72940a6ab7e9';
+const OPENWEATHER_API_KEY = '${{ secrets.OPENWEATHER_API_KEY }}';
 
 let DATA = {
   name: 'Yaroslav',
