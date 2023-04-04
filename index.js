@@ -54,22 +54,4 @@ const getWeather = async (): Promise<WeatherData> => {
 
   try {
     const response = await axios.get(url);
-    const { name, weather, main } = response.data;
-    return {
-      name: name,
-      description: weather[0].description,
-      temp: main.temp,
-      feelsLike: main.feels_like,
-    };
-  } catch (error) {
-    console.error(error);
-    return {
-      name: 'Unknown',
-      description: 'Unknown',
-      temp: 0,
-      feelsLike: 0,
-    };
-  }
-};
-
-generateReadMe();
+    const { name, weather, main } =
