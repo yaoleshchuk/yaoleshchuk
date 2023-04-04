@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import Mustache from 'mustache';
 import fs from 'fs';
 import axios from 'axios';
