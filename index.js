@@ -4,7 +4,7 @@ import fs from 'fs';
 import axios from 'axios';
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
-const OPENWEATHER_API_KEY = process.env.OPENWEATHER_API_KEY!;
+const OPENWEATHER_API_KEY = process.env.OPENWEATHER_API_KEY || '';
 
 interface IData {
   name: string;
