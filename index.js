@@ -49,7 +49,7 @@ const generateReadMe = async (): Promise<void> => {
 
 const getWeather = async (): Promise<WeatherData> => {
   const city = 'Cannes';
-  const apiKey = '<YOUR_API_KEY>';
+  const apiKey = 'dc966d561328929c144b72940a6ab7e9';
   const url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
   try {
