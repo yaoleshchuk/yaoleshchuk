@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "<h1> Hey! Nice to see you</h1>",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "test": "tsc && node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
