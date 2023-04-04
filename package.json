@@ -2,8 +2,11 @@
   "name": "yaoleshchuk",
   "version": "1.0.0",
   "description": "<h1> Hey! Nice to see you</h1>",
-  "main": "index.ts",
+  "type": "module",
+  "main": "index.js",
   "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +22,8 @@
   "dependencies": {
     "mustache": "^4.2.0",
     "axios": "^0.24.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
   }
 }
