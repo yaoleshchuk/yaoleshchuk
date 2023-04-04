@@ -2,9 +2,10 @@
   "name": "yaoleshchuk",
   "version": "1.0.0",
   "description": "<h1> Hey! Nice to see you</h1>",
-  "main": "index.ts",
+  "main": "index.js",
+  "type": "module", // добавлено
   "scripts": {
-    "test": "ts-node index.ts"
+    "test": "tsc && node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,6 @@
   "homepage": "https://github.com/yaoleshchuk/yaoleshchuk#readme",
   "dependencies": {
     "mustache": "^4.2.0",
-    "axios": "^0.24.0",
-    "ts-node": "^10.4.0"
+    "axios": "^0.24.0"
   }
 }
