@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/yaoleshchuk/yaoleshchuk#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "mustache": "^4.2.0",
+    "axios": "^0.24.0"
   }
 }
