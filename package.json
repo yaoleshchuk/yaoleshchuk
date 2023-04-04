@@ -2,7 +2,7 @@
   "name": "yaoleshchuk",
   "version": "1.0.0",
   "description": "<h1> Hey! Nice to see you</h1>",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
