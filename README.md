@@ -1,5 +1,5 @@
-<h1> Hey! I'm Yaroslav nice to see you!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> today is Saturday, 25 May, 09:11 CEST.</h1>
+<h1> Hey! I'm Yaroslav nice to see you!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> today is Saturday, 25 May, 10:16 CEST.</h1>
 
 <p>Welcome to my page! </br> I'm Lead Software Quality Assurance Engineer, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Cannes, France</b>. </p>
 
-<p>Today's weather in Cannes: scattered clouds, 18.1&deg;C</p>
+<p>Today's weather in Cannes: broken clouds, 19.6&deg;C</p>
